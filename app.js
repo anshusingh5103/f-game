@@ -54,14 +54,14 @@ function aa() {
     
  img.style.display="block";
  cbt.style.display="block"
- img.src="file:///H:/anshu%20coading%20file/you%20win.gif"
+ img.src="you win.gif"
     
         win.play();
     } else {
        
         img.style.display="block";
         cbt.style.display="block"
-     img.src="file:///H:/anshu%20coading%20file/you%20lose.gif"
+     img.src="you lose.gif"
         // dv1.style.display="block"; 
         // dv2.style.display="block";
         //  dv2.style.backgroundImage='URL("you lose.gif")';
